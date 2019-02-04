@@ -1,0 +1,36 @@
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\YT Vid Converter.exe.config
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\YT Vid Converter.exe
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\YT Vid Converter.pdb
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\libvideo.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\MediaToolkit.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.AppContext.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Console.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.IO.Compression.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Net.Http.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Net.Sockets.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT_Vid_Converter.Form1.resources
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT_Vid_Converter.Properties.Resources.resources
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.csproj.GenerateResource.cache
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.csproj.CoreCompileInputs.cache
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.csproj.CopyComplete
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.exe
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.pdb
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\libvideo.pdb
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\YT Vid Converter.exe.manifest
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\bin\Debug\YT Vid Converter.application
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.csprojAssemblyReference.cache
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.exe.manifest
+C:\Users\Sus\source\repos\YT Vid Converter\YT Vid Converter\obj\Debug\YT Vid Converter.application
