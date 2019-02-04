@@ -2,6 +2,8 @@
 
 This was made when I got my new phone because I needed to download music and all the current online Converters suck. I used two libraries 'Libvideo' & 'MediaToolkit'.
 
+This software is in no finished or completely bug free, its far from it actually. This was just made to be used by me. I thought I should just make it public anyway though.
+
 ## Explanation
 > Add Link will add the current link into the ListBox
 
@@ -28,3 +30,6 @@ This was made when I got my new phone because I needed to download music and all
 > <a href="https://github.com/AydinAdn/MediaToolkit">MediaToolkit</a>
 
 > <a href="https://github.com/i3arnon/libvideo">Libvideo - (Currently Broken, Fix provided by </a><a href="https://github.com/omansak">Omansak</a> 
+
+## Copyright
+> I am not liable for anything you download with this software. This was made for educational use only.
