@@ -11,7 +11,7 @@ This was made when I got my new phone because I needed to download music and all
 
 > Download All will download all the songs in the list.
 
-> "Delete .MP4" will remove the .mp4 file from your computer after it is down converting it to an .mp3
+> "Delete .MP4" will remove the .mp4 file from your computer after it is done converting it to an .mp3
 
 
 ## Features
