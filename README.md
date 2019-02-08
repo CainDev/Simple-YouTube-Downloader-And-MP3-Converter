@@ -29,7 +29,7 @@ This software is in no finished or completely bug free, its far from it actually
 ## Libraries Used
 > <a href="https://github.com/AydinAdn/MediaToolkit">MediaToolkit</a>
 
-> <a href="https://github.com/i3arnon/libvideo">Libvideo - (Currently Broken, Fix provided by </a><a href="https://github.com/omansak">Omansak</a> 
+> <a href="https://github.com/i3arnon/libvideo">Libvideo - (Currently Broken, Fix provided by </a><a href="https://github.com/omansak">Omansak</a>)
 
 ## Copyright
 > I am not liable for anything you download with this software. This was made for educational use only.
