@@ -1,3 +1,7 @@
+# UPDATE
+
+It has been over 2+ months since I last used this program, it has a ton of bugs that occur when trying to download large videos (Usually over 30 minutes) Please use at your own discretion and don't complain if it no longer works, thanks <3
+
 # Simple YouTube Downloader & MP3 Converter
 
 This was made when I got my new phone because I needed to download music and all the current online Converters suck. I used two libraries 'Libvideo' & 'MediaToolkit'.
